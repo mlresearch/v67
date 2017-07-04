@@ -1,0 +1,68 @@
+---
+booktitle: Proceedings of The 3rd International Conference on Predictive Applications
+  and APIs
+shortname: PAPIs
+year: '2016'
+volume: 67
+start: 2016-10-11
+end: 2016-10-12
+url: http://proceedings.mlr.press
+published: 2017-07-04
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: PAPIs-2016
+month: 0
+cycles: false
+editor:
+- given: Claire
+  family: Hardgrove
+- given: Louis
+  family: Dorard
+- given: Keiran
+  family: Thompson
+- given: Florian
+  family: Douetteau
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 3rd International Conference on Predictive Applications and APIs
+    Held in Microsoft NERD, Boston, USA on 11-12 October 2016
+
+  Published as Volume 67 by the Proceedings of Machine Learning Research on 04 July 2017.
+
+  Volume Edited by:
+    Claire Hardgrove
+    Louis Dorard
+    Keiran Thompson
+    Florian Douetteau
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 11--12 Oct
+baseurl: "/v67"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v67
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Conference on Predictive Applications and APIs
+  url: 
+  location: Microsoft NERD, Boston, USA
+  dates:
+  - 2016-10-11
+  - 2016-10-12
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v67/papis2016.bib
